@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>prestadogpsrmanager</name>
+	<displayName><![CDATA[GPSR Manager]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Podmioty i załączniki GPSR + przypisywanie do produktów.]]></description>
+	<author><![CDATA[Prestado]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>

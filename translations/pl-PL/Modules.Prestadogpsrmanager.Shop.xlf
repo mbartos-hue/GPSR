@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2">
+  <file source-language="en" target-language="pl-PL" datatype="plaintext" original="Modules.Prestadogpsrmanager.Shop">
+    <body>
+      <trans-unit id="producer" resname="Producer">
+        <source>Producer</source>
+        <target>Producent</target>
+      </trans-unit>
+      <trans-unit id="importer" resname="Importer">
+        <source>Importer</source>
+        <target>Importer</target>
+      </trans-unit>
+      <trans-unit id="responsible_entity" resname="Responsible entity">
+        <source>Responsible entity</source>
+        <target>Podmiot odpowiedzialny</target>
+      </trans-unit>
+      <trans-unit id="documents" resname="Documents">
+        <source>Documents</source>
+        <target>Dokumenty</target>
+      </trans-unit>
+      <trans-unit id="email" resname="Email:">
+        <source>Email:</source>
+        <target>Email:</target>
+      </trans-unit>
+      <trans-unit id="phone" resname="Phone:">
+        <source>Phone:</source>
+        <target>Telefon:</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
